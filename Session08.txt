@@ -15,7 +15,7 @@ Types of Regression Testing
 2) Partial/Regional Regression: test the modification along with the impact area or regions .  To find the impacted areas , impact analysis meeting is conducted and impact list is prepared.
 
 3) Complete Regression : Test the modification along with the remaining areas.
-
+  
 
 Re-Testing
 -----------
